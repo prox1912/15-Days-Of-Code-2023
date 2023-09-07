@@ -44,3 +44,16 @@ Sep 3,2023
 3.Wrong subtraction:https://codeforces.com/contest/977/submission/221636615
 4.Bear and big brother:https://codeforces.com/contest/791/submission/221636119
 5.Way too long words:https://codeforces.com/contest/71/submission/221635740
+
+**Day 7**
+Sept 4,2023
+1.Studied DSA
+2.Studied STL.
+3. Practised problems:https://pastebin.com/Tg8zsGWp,https://pastebin.com/Tg8zsGWp
+
+**Day 8**
+Sept 5,2023
+1.Studied DSA
+2.Practised problems:https://pastebin.com/1yqHSv9r,https://pastebin.com/PZ8Z7Fua,https://pastebin.com/trLj7C02
+
+
