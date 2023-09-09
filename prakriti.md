@@ -22,12 +22,14 @@ Aug 30,2023
  
  **Day 3**
  Aug 31,2023
+ 
  1.Studied DSA
  
  2.Studied SQL
 
  **Day 4**
  Sep 1,2023
+ 
  1.Studied DSA
  
  2.Studied sql
@@ -39,6 +41,7 @@ Aug 30,2023
 
 **Day 5**
 Sep 2,2023
+
 1.Studied DSA
 
 2.https://pastebin.com/WeGTGnfB
@@ -47,6 +50,7 @@ Sep 2,2023
 
 **Day 6**
 Sep 3,2023
+
 1.Studied DSA 
 
 2.Studied STL
@@ -59,6 +63,7 @@ Sep 3,2023
 
 **Day 7**
 Sept 4,2023
+
 1.Studied DSA
 
 2.Studied STL.
@@ -67,12 +72,14 @@ Sept 4,2023
 
 **Day 8**
 Sept 5,2023
+
 1.Studied DSA
 
 2.Practised problems:https://pastebin.com/1yqHSv9r,https://pastebin.com/PZ8Z7Fua,https://pastebin.com/trLj7C02
 
 **Day 9**
 Sept 6,2023
+
 1.Studied STL
 
 2.Practised Again twenty five problem:https://pastebin.com/9b6x6Luy
@@ -80,10 +87,12 @@ Sept 6,2023
 
 **Day 10**
 Sept 7,2023
+
 1.Practised bit++ problem:https://pastebin.com/NnvPVr8T
 
 **Day 11**
 Sept 8,2023
+
 1.Studied STL
 2.Practised even odds problem:https://pastebin.com/N5y2VDZN
 
