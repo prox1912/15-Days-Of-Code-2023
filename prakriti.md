@@ -71,4 +71,19 @@ Sept 5,2023
 
 2.Practised problems:https://pastebin.com/1yqHSv9r,https://pastebin.com/PZ8Z7Fua,https://pastebin.com/trLj7C02
 
+**Day 9**
+Sept 6,2023
+1.Studied STL
+
+2.Practised Again twenty five problem:https://pastebin.com/9b6x6Luy
+3.Practised Near lucky  number problem:https://pastebin.com/EGWsQ3Pf
+
+**Day 10**
+Sept 7,2023
+1.Practised bit++ problem:https://pastebin.com/NnvPVr8T
+
+**Day 11**
+Sept 8,2023
+1.Studied STL
+2.Practised even odds problem:https://pastebin.com/N5y2VDZN
 
