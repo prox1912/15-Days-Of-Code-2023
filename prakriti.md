@@ -83,6 +83,7 @@ Sept 6,2023
 1.Studied STL
 
 2.Practised Again twenty five problem:https://pastebin.com/9b6x6Luy
+
 3.Practised Near lucky  number problem:https://pastebin.com/EGWsQ3Pf
 
 ##  Day 10
@@ -100,13 +101,16 @@ Sept 8,2023
 Sept 9,2023
 
 1.Studied DSA
+
 2.Practised https://pastebin.com/zei8BbfR,https://leetcode.com/problems/powx-n/submissions/1047762063/
+
 3.Studied STL
 
 ##  Day 13
 Sept 10,2023
 
 1.Practised https://pastebin.com/AGSL9Ujh,https://pastebin.com/iAfDg7Cd
+
 2. Studied SQL
 
 ##  Day 14
@@ -118,4 +122,6 @@ Sept 11,2023
 Sept 12,2023
 
 1.Studied SQL
+
+
 2. Practised vectors ,pairs and linked lists
