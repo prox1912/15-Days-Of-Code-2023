@@ -11,7 +11,7 @@
 
 4.Studied DSA
 
-## Day2
+##  Day2
 Aug 30,2023
 
 1.Studied DSA
