@@ -95,6 +95,7 @@ Sept 7,2023
 Sept 8,2023
 
 1.Studied STL
+
 2.Practised even odds problem:https://pastebin.com/N5y2VDZN
 
 ##  Day 12
